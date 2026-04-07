@@ -6,4 +6,3 @@ Discover the MealFinder app, a delightful way to explore new culinary experience
 
 Key Features:
 
-User-friendly recipe search Interactive and responsive design Meal planning and recipe organization Inspire your cooking journey
